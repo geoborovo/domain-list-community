@@ -1,0 +1,7 @@
+[
+  {
+    "name": "geosite.dat",
+    "mode": "allowlist",
+    "lists": ["block", "proxy", "direct"]
+  }
+]

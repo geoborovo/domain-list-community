@@ -10,3 +10,5 @@
 # Exported plaintext lists.
 /*.txt
 /*.yml
+
+.DS_Store
